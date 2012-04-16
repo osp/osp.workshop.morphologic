@@ -6,8 +6,9 @@ import sys
 font = RFont()
 font.info.familyName = "Morphologic"
 font.info.styleName = "Regular"
+font.info.fullName = font.info.familyName + '-' + font.info.styleName
 font.info.ascender = 800
-font.info.descender = 200
+font.info.descender = 100
 
 glyph = font.newGlyph('b')
 glyph.width = 1000

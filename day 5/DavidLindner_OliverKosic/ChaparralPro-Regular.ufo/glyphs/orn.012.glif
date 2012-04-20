@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="orn.012" format="1">
+  <advance width="860"/>
+  <unicode hex="E018"/>
+  <outline>
+    <contour>
+      <point x="659" y="755" type="line"/>
+      <point x="527" y="757"/>
+      <point x="319" y="755"/>
+      <point x="190" y="755" type="curve"/>
+      <point x="184" y="749" type="line"/>
+      <point x="204" y="691"/>
+      <point x="224" y="628"/>
+      <point x="245" y="564" type="curve"/>
+      <point x="195" y="564"/>
+      <point x="152" y="564"/>
+      <point x="102" y="563" type="curve"/>
+      <point x="99" y="302"/>
+      <point x="101" y="69"/>
+      <point x="101" y="-124" type="curve"/>
+      <point x="355" y="-125"/>
+      <point x="577" y="-124"/>
+      <point x="760" y="-123" type="curve"/>
+      <point x="761" y="54"/>
+      <point x="761" y="300"/>
+      <point x="761" y="564" type="curve"/>
+      <point x="712" y="564"/>
+      <point x="667" y="565"/>
+      <point x="612" y="564" type="curve"/>
+      <point x="629" y="628"/>
+      <point x="648" y="694"/>
+      <point x="662" y="748" type="curve"/>
+    </contour>
+    <contour>
+      <point x="425" y="183" type="line"/>
+      <point x="376" y="338"/>
+      <point x="321" y="539"/>
+      <point x="280" y="682" type="curve"/>
+      <point x="284" y="688" type="line"/>
+      <point x="368" y="689"/>
+      <point x="483" y="689"/>
+      <point x="573" y="685" type="curve"/>
+      <point x="530" y="517"/>
+      <point x="483" y="353"/>
+      <point x="435" y="182" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

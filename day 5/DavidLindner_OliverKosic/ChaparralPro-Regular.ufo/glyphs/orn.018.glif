@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="orn.018" format="1">
+  <advance width="574"/>
+  <unicode hex="E01E"/>
+  <outline>
+    <contour>
+      <point x="0" y="315" type="line"/>
+      <point x="29" y="315"/>
+      <point x="64" y="316"/>
+      <point x="89" y="316" type="curve"/>
+      <point x="123" y="277"/>
+      <point x="263" y="149"/>
+      <point x="323" y="116" type="curve"/>
+      <point x="408" y="115"/>
+      <point x="504" y="116"/>
+      <point x="574" y="117" type="curve"/>
+      <point x="574" y="150" type="line"/>
+      <point x="545" y="149"/>
+      <point x="508" y="149"/>
+      <point x="478" y="149" type="curve"/>
+      <point x="410" y="221"/>
+      <point x="346" y="286"/>
+      <point x="251" y="349" type="curve"/>
+      <point x="165" y="350"/>
+      <point x="78" y="349"/>
+      <point x="0" y="348" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

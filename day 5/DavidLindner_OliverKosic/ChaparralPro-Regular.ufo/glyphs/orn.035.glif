@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="orn.035" format="1">
+  <advance width="1000"/>
+  <unicode hex="E02F"/>
+  <outline>
+    <contour>
+      <point x="621" y="-157" type="line"/>
+      <point x="738" y="40"/>
+      <point x="882" y="311"/>
+      <point x="975" y="494" type="curve"/>
+      <point x="971" y="504" type="line"/>
+      <point x="746" y="509"/>
+      <point x="472" y="507"/>
+      <point x="227" y="505" type="curve"/>
+      <point x="223" y="343"/>
+      <point x="227" y="202"/>
+      <point x="227" y="54" type="curve"/>
+      <point x="339" y="-11"/>
+      <point x="483" y="-94"/>
+      <point x="606" y="-158" type="curve"/>
+    </contour>
+    <contour>
+      <point x="735" y="181" type="line"/>
+      <point x="631" y="145"/>
+      <point x="509" y="104"/>
+      <point x="375" y="66" type="curve"/>
+      <point x="370" y="71" type="line"/>
+      <point x="387" y="194"/>
+      <point x="406" y="316"/>
+      <point x="432" y="439" type="curve"/>
+      <point x="439" y="441" type="line"/>
+      <point x="542" y="360"/>
+      <point x="640" y="277"/>
+      <point x="737" y="187" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

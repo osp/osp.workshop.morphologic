@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gravesmall" format="1">
+  <advance width="333"/>
+  <unicode hex="F760"/>
+  <outline>
+    <contour>
+      <point x="103" y="692" type="curve"/>
+      <point x="93" y="676"/>
+      <point x="81" y="658"/>
+      <point x="71" y="640" type="curve"/>
+      <point x="126" y="613"/>
+      <point x="189" y="580"/>
+      <point x="241" y="554" type="curve"/>
+      <point x="249" y="566"/>
+      <point x="256" y="578"/>
+      <point x="262" y="590" type="curve"/>
+      <point x="215" y="620"/>
+      <point x="154" y="661"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

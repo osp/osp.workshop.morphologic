@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Caronsmall" format="1">
+  <advance width="333"/>
+  <unicode hex="F6F5"/>
+  <outline>
+    <contour>
+      <point x="167" y="618" type="curve"/>
+      <point x="138" y="646"/>
+      <point x="102" y="683"/>
+      <point x="74" y="710" type="curve"/>
+      <point x="63" y="702"/>
+      <point x="53" y="693"/>
+      <point x="44" y="684" type="curve"/>
+      <point x="79" y="643"/>
+      <point x="117" y="598"/>
+      <point x="148" y="560" type="curve"/>
+      <point x="161" y="559"/>
+      <point x="174" y="560"/>
+      <point x="185" y="560" type="curve"/>
+      <point x="215" y="594"/>
+      <point x="258" y="647"/>
+      <point x="290" y="683" type="curve"/>
+      <point x="281" y="693"/>
+      <point x="271" y="702"/>
+      <point x="261" y="710" type="curve"/>
+      <point x="234" y="684"/>
+      <point x="198" y="648"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

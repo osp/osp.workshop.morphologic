@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acute" format="1">
+  <advance width="333"/>
+  <unicode hex="F6C9"/>
+  <outline>
+    <contour>
+      <point x="359" y="849" type="curve"/>
+      <point x="312" y="814"/>
+      <point x="251" y="769"/>
+      <point x="205" y="735" type="curve"/>
+      <point x="211" y="724"/>
+      <point x="220" y="711"/>
+      <point x="228" y="701" type="curve"/>
+      <point x="278" y="729"/>
+      <point x="345" y="767"/>
+      <point x="396" y="796" type="curve"/>
+      <point x="385" y="814"/>
+      <point x="371" y="835"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

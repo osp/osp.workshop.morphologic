@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hungarumlautsmall" format="1">
+  <advance width="333"/>
+  <unicode hex="F6F8"/>
+  <outline>
+    <contour>
+      <point x="204" y="688" type="curve"/>
+      <point x="161" y="657"/>
+      <point x="109" y="621"/>
+      <point x="63" y="589" type="curve"/>
+      <point x="70" y="578"/>
+      <point x="77" y="566"/>
+      <point x="85" y="556" type="curve"/>
+      <point x="136" y="585"/>
+      <point x="187" y="614"/>
+      <point x="236" y="642" type="curve"/>
+      <point x="227" y="657"/>
+      <point x="216" y="675"/>
+    </contour>
+    <contour>
+      <point x="356" y="684" type="curve"/>
+      <point x="314" y="654"/>
+      <point x="259" y="614"/>
+      <point x="216" y="584" type="curve"/>
+      <point x="223" y="573"/>
+      <point x="230" y="562"/>
+      <point x="238" y="551" type="curve"/>
+      <point x="289" y="581"/>
+      <point x="339" y="610"/>
+      <point x="388" y="638" type="curve"/>
+      <point x="379" y="653"/>
+      <point x="367" y="672"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

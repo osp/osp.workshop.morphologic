@@ -1,0 +1,39 @@
+#!/usr/bin/env python
+
+# Script to generate the K, by Patrick Wellmann
+
+from robofab.world import RFont
+font = RFont('Morphologic.ufo')
+
+glyph = font.newGlyph('B')
+
+pen = glyph.getPen()
+
+pen.moveTo((100,0))
+pen.lineTo((100,500))
+pen.lineTo((150,500))
+pen.lineTo((150,300))
+pen.lineTo((350,500))
+pen.lineTo((400,500))
+pen.lineTo((175,275))
+pen.lineTo((400,50))
+pen.lineTo((400,0))
+pen.lineTo((150,250))
+pen.lineTo((150,0))
+pen.lineTo((100,0))
+pen.closePath()
+
+pen.moveTo((300,550))
+pen.lineTo((300,400))
+pen.lineTo((450,400))
+pen.lineTo((450,550))
+pen.closePath()
+
+pen.moveTo((300,200))
+pen.lineTo((300,50))
+pen.lineTo((450,50))
+pen.lineTo((450,200))
+pen.closePath()
+
+font.save()
+

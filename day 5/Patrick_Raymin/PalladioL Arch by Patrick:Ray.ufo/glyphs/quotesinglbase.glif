@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesinglbase" format="1">
+  <advance width="278"/>
+  <unicode hex="201A"/>
+  <outline>
+    <contour>
+      <point x="229.696516877" y="176.624758241" type="line"/>
+      <point x="37.1723855456" y="-123.560586707" type="line"/>
+      <point x="-12.0905090364" y="-164.802164832" type="line"/>
+      <point x="-23.2661868371" y="-157.918740426" type="line"/>
+      <point x="119.82701118" y="123.051134012" type="line"/>
+      <point x="221.350003092" y="187.581820432" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

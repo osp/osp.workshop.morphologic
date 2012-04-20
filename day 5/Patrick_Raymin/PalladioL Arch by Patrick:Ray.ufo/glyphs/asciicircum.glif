@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciicircum" format="1">
+  <advance width="606"/>
+  <unicode hex="005E"/>
+  <outline>
+    <contour>
+      <point x="135.955691739" y="341.738491521" type="line"/>
+      <point x="466.60779858" y="865.552914432" type="line"/>
+      <point x="529.377528655" y="885.948036061" type="line"/>
+      <point x="614.337119436" y="497.174039691" type="line"/>
+      <point x="549.665276328" y="476.160884074" type="line"/>
+      <point x="480.069677945" y="808.94213518" type="line"/>
+      <point x="200.627534847" y="362.751647138" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

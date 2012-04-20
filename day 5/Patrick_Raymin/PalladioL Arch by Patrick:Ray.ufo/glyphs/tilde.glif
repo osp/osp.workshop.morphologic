@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="333"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="513.52163981" y="839.789118729" type="line"/>
+      <point x="377.409695125" y="685.160133463" type="line"/>
+      <point x="318.609174909" y="686.032468557" type="line"/>
+      <point x="259.118604106" y="694.040828193" type="line"/>
+      <point x="194.806843996" y="625.828870543" type="line"/>
+      <point x="167.226205024" y="616.867377706" type="line"/>
+      <point x="298.939895188" y="764.809972328" type="line"/>
+      <point x="374.313415307" y="757.756446862" type="line"/>
+      <point x="414.377816656" y="755.002226614" type="line"/>
+      <point x="485.941000837" y="830.827625892" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>535</integer>
+            <key>width</key>
+            <integer>55</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>580</integer>
+            <key>width</key>
+            <integer>55</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

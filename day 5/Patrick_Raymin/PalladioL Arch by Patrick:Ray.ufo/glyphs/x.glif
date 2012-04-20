@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x" format="1">
+  <advance width="516"/>
+  <unicode hex="0078"/>
+  <outline>
+    <contour>
+      <point x="431.347558802" y="196.932277886" type="line"/>
+      <point x="457.218129006" y="180.103042316" type="line"/>
+      <point x="480.06749093" y="184.372863379" type="line"/>
+      <point x="470.796981099" y="149.816825413" type="line"/>
+      <point x="415.848698015" y="145.63205488" type="line"/>
+      <point x="353.817029594" y="111.807735105" type="line"/>
+      <point x="339.620143514" y="139.790216144" type="line"/>
+      <point x="339.287120986" y="141.784935014" type="line"/>
+      <point x="287.584826831" y="295.322721629" type="line"/>
+      <point x="186.922979176" y="159.572406691" type="line"/>
+      <point x="130.981738384" y="77.2568000478" type="line"/>
+      <point x="103.90216067" y="44.2744807254" type="line"/>
+      <point x="22.1113002696" y="17.6990192093" type="line"/>
+      <point x="27.364589174" y="37.2807740564" type="line"/>
+      <point x="43.5325499511" y="42.5340629608" type="line"/>
+      <point x="76.6995003556" y="69.0825917748" type="line"/>
+      <point x="272.793912294" y="317.854880001" type="line"/>
+      <point x="212.436087359" y="481.197860875" type="line"/>
+      <point x="173.844754381" y="499.15118119" type="line"/>
+      <point x="154.490601529" y="494.965560172" type="line"/>
+      <point x="157.769760801" y="523.369041437" type="line"/>
+      <point x="274.272656578" y="582.252371428" type="line"/>
+      <point x="310.013874944" y="521.31450377" type="line"/>
+      <point x="346.448198834" y="411.183115209" type="line"/>
+      <point x="518.457180871" y="651.078110644" type="line"/>
+      <point x="596.443815207" y="676.417504183" type="line"/>
+      <point x="587.791339364" y="644.165202081" type="line"/>
+      <point x="574.476548136" y="639.83896416" type="line"/>
+      <point x="538.741439645" y="616.661839098" type="line"/>
+      <point x="352.394593264" y="381.571349154" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-3</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>27</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>431</integer>
+            <key>width</key>
+            <integer>28</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>449</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

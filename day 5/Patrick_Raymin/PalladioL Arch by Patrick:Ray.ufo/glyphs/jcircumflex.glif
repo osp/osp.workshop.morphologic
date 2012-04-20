@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex" format="1">
+  <advance width="234"/>
+  <unicode hex="0135"/>
+  <outline>
+    <contour>
+      <point x="145.346663199" y="27.2482113944" type="line"/>
+      <point x="36.5364558974" y="-206.83272849" type="line"/>
+      <point x="-114.081391865" y="-334.63110065" type="line"/>
+      <point x="-113.751424274" y="-294.568323159" type="line"/>
+      <point x="-86.1467797684" y="-288.753417125" type="line"/>
+      <point x="-21.1449690691" y="-227.677484017" type="line"/>
+      <point x="69.1661197616" y="15.1131990529" type="line"/>
+      <point x="172.377795882" y="399.837088401" type="line"/>
+      <point x="153.089549755" y="470.326699698" type="line"/>
+      <point x="117.900458652" y="458.893070906" type="line"/>
+      <point x="126.552934495" y="491.145373008" type="line"/>
+      <point x="287.587447806" y="586.578609349" type="line"/>
+      <point x="294.910888475" y="584.75229057" type="line"/>
+    </contour>
+    <contour>
+      <point x="349.147736412" y="890.475560168" type="line"/>
+      <point x="417.375019405" y="737.049756784" type="line"/>
+      <point x="383.136984818" y="725.925144987" type="line"/>
+      <point x="300.838953283" y="807.485502677" type="line"/>
+      <point x="152.981307875" y="651.143032348" type="line"/>
+      <point x="120.645386321" y="640.636454539" type="line"/>
+      <point x="290.182232402" y="871.316506516" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>75</integer>
+            <key>width</key>
+            <integer>84</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

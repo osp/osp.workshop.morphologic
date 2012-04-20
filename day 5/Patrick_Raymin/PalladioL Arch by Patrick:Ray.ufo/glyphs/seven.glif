@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="500"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="409.541786628" y="555.75600705" type="line"/>
+      <point x="575.319362772" y="820.964313804" type="line"/>
+      <point x="321.387272921" y="738.456776306" type="line"/>
+      <point x="241.741635821" y="638.975984397" type="line"/>
+      <point x="217.779288523" y="572.308261234" type="line"/>
+      <point x="189.247593034" y="563.037751403" type="line"/>
+      <point x="223.620496009" y="681.455331469" type="line"/>
+      <point x="253.214110869" y="801.474413364" type="line"/>
+      <point x="261.17959106" y="798.805243647" type="line"/>
+      <point x="471.0060531" y="872.239305076" type="line"/>
+      <point x="682.497627779" y="935.699772155" type="line"/>
+      <point x="676.317287891" y="912.662413512" type="line"/>
+      <point x="400.607354261" y="477.147753854" type="line"/>
+      <point x="148.388822075" y="45.0600643201" type="line"/>
+      <point x="108.657443252" y="45.8195656972" type="line"/>
+      <point x="60.8916225761" y="16.6305008378" type="line"/>
+      <point x="56.3493348562" y="28.8236310068" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-3</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>603</integer>
+            <key>width</key>
+            <integer>81</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright" format="1">
+  <advance width="333"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="-29.5154883873" y="-213.573835023" type="line"/>
+      <point x="158.562377357" y="86.2182928847" type="line"/>
+      <point x="260.046089051" y="364.183047908" type="line"/>
+      <point x="299.18911533" y="607.171615225" type="line"/>
+      <point x="246.745704584" y="816.196096347" type="line"/>
+      <point x="272.850220247" y="852.015985477" type="line"/>
+      <point x="370.875382113" y="625.206584131" type="line"/>
+      <point x="341.527932458" y="389.606641493" type="line"/>
+      <point x="150.177017315" y="-22.7039604009" type="line"/>
+      <point x="-17.9347714596" y="-231.891738706" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>187</integer>
+            <key>width</key>
+            <integer>86</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

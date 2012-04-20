@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="obreve" format="1">
+  <advance width="546"/>
+  <unicode hex="014F"/>
+  <outline>
+    <contour>
+      <point x="378.72651055" y="887.468739784" type="line"/>
+      <point x="454.010118409" y="808.886568806" type="line"/>
+      <point x="589.861057167" y="956.070512536" type="line"/>
+      <point x="618.392752656" y="965.341022367" type="line"/>
+      <point x="566.828815789" y="850.800896809" type="line"/>
+      <point x="435.469098749" y="739.774492876" type="line"/>
+      <point x="342.331466877" y="784.166059741" type="line"/>
+      <point x="350.194815061" y="878.198229953" type="line"/>
+    </contour>
+    <contour>
+      <point x="562.080077042" y="431.827435036" type="line"/>
+      <point x="231.583789186" y="54.2168899499" type="line"/>
+      <point x="97.4904963017" y="259.843885104" type="line"/>
+      <point x="410.273738408" y="626.441801624" type="line"/>
+    </contour>
+    <contour>
+      <point x="196.445330124" y="327.745975274" type="line"/>
+      <point x="278.872554136" y="104.280194493" type="line"/>
+      <point x="462.198192236" y="360.469741068" type="line"/>
+      <point x="382.957160301" y="582.867853963" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-20</integer>
+            <key>width</key>
+            <integer>33</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>436</integer>
+            <key>width</key>
+            <integer>33</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>569</integer>
+            <key>width</key>
+            <integer>60</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>32</integer>
+            <key>width</key>
+            <integer>93</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>132</integer>
+            <key>width</key>
+            <integer>30</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>384</integer>
+            <key>width</key>
+            <integer>30</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>421</integer>
+            <key>width</key>
+            <integer>93</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

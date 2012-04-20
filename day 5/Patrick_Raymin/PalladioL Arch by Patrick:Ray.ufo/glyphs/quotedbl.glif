@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl" format="1">
+  <advance width="371"/>
+  <unicode hex="0022"/>
+  <outline>
+    <contour>
+      <point x="225.768774246" y="566.492504715" type="line"/>
+      <point x="254.951240107" y="782.061058608" type="line"/>
+      <point x="256.496325078" y="787.820398269" type="line"/>
+      <point x="309.44341806" y="846.030978382" type="line"/>
+      <point x="338.596202474" y="815.547727717" type="line"/>
+      <point x="335.791043992" y="808.32750313" type="line"/>
+      <point x="244.789904572" y="572.672844602" type="line"/>
+    </contour>
+    <contour>
+      <point x="397.910003696" y="622.424580697" type="line"/>
+      <point x="427.092469556" y="837.99313459" type="line"/>
+      <point x="428.637554528" y="843.752474251" type="line"/>
+      <point x="481.584647509" y="901.963054364" type="line"/>
+      <point x="510.428414929" y="870.327935767" type="line"/>
+      <point x="507.932273441" y="864.259579112" type="line"/>
+      <point x="416.931134022" y="628.604920584" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>469</integer>
+            <key>width</key>
+            <integer>240</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

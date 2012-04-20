@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero" format="1">
+  <advance width="500"/>
+  <unicode hex="0030"/>
+  <outline>
+    <contour>
+      <point x="555.341500018" y="565.276565563" type="line"/>
+      <point x="220.17111099" y="50.5086860174" type="line"/>
+      <point x="98.4537725639" y="91.922916656" type="line"/>
+      <point x="127.702145149" y="382.166702863" type="line"/>
+      <point x="459.950402966" y="863.389795472" type="line"/>
+    </contour>
+    <contour>
+      <point x="218.715504317" y="449.59137595" type="line"/>
+      <point x="243.350440505" y="94.8412845705" type="line"/>
+      <point x="460.001902932" y="481.725741426" type="line"/>
+      <point x="435.105960813" y="829.030791268" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-20</integer>
+            <key>width</key>
+            <integer>35</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>654</integer>
+            <key>width</key>
+            <integer>35</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>29</integer>
+            <key>width</key>
+            <integer>84</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>381</integer>
+            <key>width</key>
+            <integer>84</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

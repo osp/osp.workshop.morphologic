@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply" format="1">
+  <advance width="606"/>
+  <unicode hex="00D7"/>
+  <outline>
+    <contour>
+      <point x="213.360083405" y="526.710961032" type="line"/>
+      <point x="264.405063354" y="584.303507156" type="line"/>
+      <point x="379.330137779" y="433.433189289" type="line"/>
+      <point x="604.883296187" y="694.931591142" type="line"/>
+      <point x="631.824950575" y="662.678438557" type="line"/>
+      <point x="404.060662138" y="399.410134782" type="line"/>
+      <point x="520.5788326" y="248.005982971" type="line"/>
+      <point x="469.533852651" y="190.413436847" type="line"/>
+      <point x="354.608778228" y="341.283754715" type="line"/>
+      <point x="129.055619817" y="79.7853528608" type="line"/>
+      <point x="102.11396543" y="112.038505446" type="line"/>
+      <point x="328.92719735" y="374.997792227" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>454</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

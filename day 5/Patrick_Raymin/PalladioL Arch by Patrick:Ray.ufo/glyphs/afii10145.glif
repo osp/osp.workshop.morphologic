@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10145" format="1">
+  <advance width="832"/>
+  <unicode hex="040F"/>
+  <outline>
+    <contour>
+      <point x="423.799337484" y="19.9369828845" type="line"/>
+      <point x="424.441377007" y="19.0941319468" type="line"/>
+      <point x="423.799337484" y="19.9369828845" type="line"/>
+      <point x="299.852973372" y="-21.3870943163" type="line"/>
+      <point x="337.649068817" y="106.554446201" type="line"/>
+      <point x="163.818721197" y="63.742551371" type="line"/>
+      <point x="19.9961923754" y="3.3427700797" type="line"/>
+      <point x="29.2667022066" y="37.8988080452" type="line"/>
+      <point x="75.8444659719" y="56.1872275717" type="line"/>
+      <point x="152.159877797" y="175.615208181" type="line"/>
+      <point x="290.908508272" y="692.803909731" type="line"/>
+      <point x="270.216155433" y="780.712156913" type="line"/>
+      <point x="225.492493634" y="769.33494498" type="line"/>
+      <point x="234.763003466" y="803.890982946" type="line"/>
+      <point x="370.551090434" y="834.342198" type="line"/>
+      <point x="513.42256274" y="894.432962298" type="line"/>
+      <point x="504.152052909" y="859.876924332" type="line"/>
+      <point x="457.574289143" y="841.588504805" type="line"/>
+      <point x="381.25887732" y="722.160524196" type="line"/>
+      <point x="219.333972266" y="118.581727733" type="line"/>
+      <point x="298.604685647" y="142.235419396" type="line"/>
+      <point x="521.15191046" y="214.54539608" type="line"/>
+      <point x="599.756578784" y="242.188525483" type="line"/>
+      <point x="761.681483838" y="845.767321946" type="line"/>
+      <point x="740.989130999" y="933.675569129" type="line"/>
+      <point x="696.2654692" y="922.298357196" type="line"/>
+      <point x="705.535979032" y="956.854395161" type="line"/>
+      <point x="841.324065996" y="987.305610215" type="line"/>
+      <point x="984.195538301" y="1047.39637451" type="line"/>
+      <point x="974.925028483" y="1012.84033655" type="line"/>
+      <point x="928.347264705" y="994.55191702" type="line"/>
+      <point x="852.031852882" y="875.123936411" type="line"/>
+      <point x="713.283222411" y="357.935234862" type="line"/>
+      <point x="733.975575248" y="270.026987679" type="line"/>
+      <point x="778.699237047" y="281.404199612" type="line"/>
+      <point x="769.428727215" y="246.848161647" type="line"/>
+      <point x="634.591696763" y="216.705963587" type="line"/>
+      <point x="453.035924285" y="145.097370453" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-3</integer>
+            <key>width</key>
+            <integer>30</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-2</integer>
+            <key>width</key>
+            <integer>45</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>662</integer>
+            <key>width</key>
+            <integer>30</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>121</integer>
+            <key>width</key>
+            <integer>95</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>616</integer>
+            <key>width</key>
+            <integer>95</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

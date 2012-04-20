@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="1">
+  <advance width="278"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="203.736034411" y="121.925348297" type="line"/>
+      <point x="128.749657761" y="36.5759885686" type="line"/>
+      <point x="93.4134785221" y="86.0793769501" type="line"/>
+      <point x="165.546685625" y="170.501685696" type="line"/>
+    </contour>
+    <contour>
+      <point x="398.962758258" y="859.345641843" type="line"/>
+      <point x="391.237333398" y="830.548943538" type="line"/>
+      <point x="355.223323319" y="718.95837102" type="line"/>
+      <point x="335.635225008" y="662.123625304" type="line"/>
+      <point x="226.90314418" y="334.487932292" type="line"/>
+      <point x="219.17771932" y="305.691233988" type="line"/>
+      <point x="185.440745994" y="270.545795705" type="line"/>
+      <point x="177.475265803" y="273.214965422" type="line"/>
+      <point x="180.565435746" y="284.733644744" type="line"/>
+      <point x="182.728554707" y="292.796720269" type="line"/>
+      <point x="187.933832545" y="318.671648721" type="line"/>
+      <point x="257.456546405" y="661.956926182" type="line"/>
+      <point x="283.554952195" y="781.891808033" type="line"/>
+      <point x="366.626836704" y="848.839064034" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-5</integer>
+            <key>width</key>
+            <integer>116</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>674</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>158</integer>
+            <key>width</key>
+            <integer>36</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

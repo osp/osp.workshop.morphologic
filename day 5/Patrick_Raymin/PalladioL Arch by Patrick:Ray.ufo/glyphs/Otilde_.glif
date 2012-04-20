@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Otilde" format="1">
+  <advance width="786"/>
+  <unicode hex="00D5"/>
+  <outline>
+    <contour>
+      <point x="840.01641538" y="658.824514811" type="line"/>
+      <point x="345.710571141" y="91.2989292749" type="line"/>
+      <point x="126.29803844" y="399.58533875" type="line"/>
+      <point x="601.417768562" y="940.899195655" type="line"/>
+    </contour>
+    <contour>
+      <point x="239.494714476" y="475.269270639" type="line"/>
+      <point x="396.731545557" y="152.038062202" type="line"/>
+      <point x="728.982858309" y="591.203658449" type="line"/>
+      <point x="572.271094021" y="887.267453599" type="line"/>
+    </contour>
+    <contour>
+      <point x="800.794394712" y="1176.01746879" type="line"/>
+      <point x="664.682450023" y="1021.38848352" type="line"/>
+      <point x="605.881929809" y="1022.26081861" type="line"/>
+      <point x="546.391359006" y="1030.26917825" type="line"/>
+      <point x="482.079598895" y="962.057220599" type="line"/>
+      <point x="454.498959922" y="953.095727763" type="line"/>
+      <point x="586.212650088" y="1101.03832238" type="line"/>
+      <point x="661.586170207" y="1093.98479692" type="line"/>
+      <point x="701.650571553" y="1091.23057667" type="line"/>
+      <point x="773.213755739" y="1167.05597595" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-20</integer>
+            <key>width</key>
+            <integer>42</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>667</integer>
+            <key>width</key>
+            <integer>42</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>766</integer>
+            <key>width</key>
+            <integer>55</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>811</integer>
+            <key>width</key>
+            <integer>55</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>22</integer>
+            <key>width</key>
+            <integer>107</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>657</integer>
+            <key>width</key>
+            <integer>107</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two" format="1">
+  <advance width="500"/>
+  <unicode hex="0032"/>
+  <outline>
+    <contour>
+      <point x="239.935978884" y="292.458219119" type="line"/>
+      <point x="470.475310396" y="650.208327004" type="line"/>
+      <point x="379.329703817" y="766.74657337" type="line"/>
+      <point x="240.505567844" y="634.368512668" type="line"/>
+      <point x="213.92705139" y="577.365366861" type="line"/>
+      <point x="186.346412418" y="568.403874024" type="line"/>
+      <point x="244.54068443" y="730.311201705" type="line"/>
+      <point x="424.761311863" y="851.95616668" type="line"/>
+      <point x="565.340906694" y="712.575894463" type="line"/>
+      <point x="372.555769435" y="404.945507979" type="line"/>
+      <point x="139.823203555" y="126.393904092" type="line"/>
+      <point x="471.978928136" y="244.832463467" type="line"/>
+      <point x="456.171050358" y="192.38037253" type="line"/>
+      <point x="444.167398642" y="141.164349571" type="line"/>
+      <point x="230.392677338" y="85.3737409772" type="line"/>
+      <point x="14.2898532776" y="1.48866811345" type="line"/>
+      <point x="22.3242951314" y="31.4372343502" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-3</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>612</integer>
+            <key>width</key>
+            <integer>77</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>341</integer>
+            <key>width</key>
+            <integer>90</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

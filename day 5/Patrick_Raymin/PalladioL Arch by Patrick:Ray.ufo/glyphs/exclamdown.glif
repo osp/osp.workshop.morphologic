@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="1">
+  <advance width="278"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="7.50675408555" y="-234.139908196" type="line"/>
+      <point x="15.2321789449" y="-205.343209892" type="line"/>
+      <point x="51.2461890245" y="-93.7526373741" type="line"/>
+      <point x="70.834287336" y="-36.9178916575" type="line"/>
+      <point x="179.566368162" y="290.717801354" type="line"/>
+      <point x="187.291793022" y="319.514499658" type="line"/>
+      <point x="221.02876635" y="354.659937941" type="line"/>
+      <point x="228.99424654" y="351.990768224" type="line"/>
+      <point x="218.535679798" y="306.534084925" type="line"/>
+      <point x="149.012965937" y="-36.7511925362" type="line"/>
+      <point x="122.914560147" y="-156.686074387" type="line"/>
+      <point x="39.8426756396" y="-223.633330388" type="line"/>
+    </contour>
+    <contour>
+      <point x="314.055101403" y="533.142200086" type="line"/>
+      <point x="239.377741746" y="448.944708289" type="line"/>
+      <point x="204.041562509" y="498.448096671" type="line"/>
+      <point x="276.17476961" y="582.870405417" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>353</integer>
+            <key>width</key>
+            <integer>116</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>81</integer>
+            <key>width</key>
+            <integer>36</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

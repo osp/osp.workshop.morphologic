@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="1">
+  <advance width="500"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="263.388534074" y="176.005873767" type="line"/>
+      <point x="236.878979284" y="151.620463914" type="line"/>
+      <point x="122.334938453" y="294.202889306" type="line"/>
+      <point x="126.043142386" y="308.025304493" type="line"/>
+      <point x="347.198046276" y="562.837315703" type="line"/>
+      <point x="365.055125224" y="554.970423455" type="line"/>
+      <point x="200.273561724" y="325.83545645" type="line"/>
+    </contour>
+    <contour>
+      <point x="454.550893849" y="238.118289636" type="line"/>
+      <point x="428.04133906" y="213.732879783" type="line"/>
+      <point x="313.497298228" y="356.315305176" type="line"/>
+      <point x="317.205502161" y="370.137720362" type="line"/>
+      <point x="538.360406051" y="624.949731572" type="line"/>
+      <point x="556.217484999" y="617.082839324" type="line"/>
+      <point x="391.435921499" y="387.947872319" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

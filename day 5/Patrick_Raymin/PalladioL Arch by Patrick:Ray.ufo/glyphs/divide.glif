@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="606"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="137.809793705" y="348.649699113" type="line"/>
+      <point x="617.142277918" y="504.394264278" type="line"/>
+      <point x="599.837326233" y="439.889660076" type="line"/>
+      <point x="120.50484202" y="284.145094911" type="line"/>
+    </contour>
+    <contour>
+      <point x="484.267157352" y="633.660325242" type="line"/>
+      <point x="410.540854209" y="549.771850439" type="line"/>
+      <point x="374.253618455" y="598.966221827" type="line"/>
+      <point x="447.337882073" y="683.697547567" type="line"/>
+    </contour>
+    <contour>
+      <point x="364.986597523" y="189.03930342" type="line"/>
+      <point x="291.260294381" y="105.150828617" type="line"/>
+      <point x="254.973058626" y="154.345200005" type="line"/>
+      <point x="328.057322244" y="239.076525745" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>10</integer>
+            <key>width</key>
+            <integer>116</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>233</integer>
+            <key>width</key>
+            <integer>56</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>396</integer>
+            <key>width</key>
+            <integer>116</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>246</integer>
+            <key>width</key>
+            <integer>116</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

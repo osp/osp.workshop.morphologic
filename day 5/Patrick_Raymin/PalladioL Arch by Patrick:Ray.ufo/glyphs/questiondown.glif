@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="1">
+  <advance width="444"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <contour>
+      <point x="278.959845419" y="-115.447047716" type="line"/>
+      <point x="141.653733949" y="-196.861685594" type="line"/>
+      <point x="17.1011216339" y="-75.4061000198" type="line"/>
+      <point x="175.177278452" y="157.858921629" type="line"/>
+      <point x="302.894698287" y="329.73814269" type="line"/>
+      <point x="296.804270658" y="378.229429559" type="line"/>
+      <point x="321.102695423" y="400.844937492" type="line"/>
+      <point x="340.390941551" y="330.355326195" type="line"/>
+      <point x="227.605414515" y="159.121922309" type="line"/>
+      <point x="112.038734531" y="-22.4782929671" type="line"/>
+      <point x="195.335833649" y="-110.022807267" type="line"/>
+      <point x="291.056464329" y="-34.7598756048" type="line"/>
+      <point x="324.910410387" y="26.7101250279" type="line"/>
+      <point x="350.018913404" y="26.4566744073" type="line"/>
+    </contour>
+    <contour>
+      <point x="412.013922581" y="564.970950507" type="line"/>
+      <point x="337.336562925" y="480.77345871" type="line"/>
+      <point x="302.000383687" y="530.276847092" type="line"/>
+      <point x="374.133590789" y="614.699155837" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-231</integer>
+            <key>width</key>
+            <integer>66</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>353</integer>
+            <key>width</key>
+            <integer>116</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>43</integer>
+            <key>width</key>
+            <integer>93</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>184</integer>
+            <key>width</key>
+            <integer>116</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>247</integer>
+            <key>width</key>
+            <integer>43</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

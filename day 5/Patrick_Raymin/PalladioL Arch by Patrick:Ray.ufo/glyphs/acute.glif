@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="1">
+  <advance width="333"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="404.435151897" y="808.55061911" type="line"/>
+      <point x="466.940821108" y="863.558195563" type="line"/>
+      <point x="485.916995305" y="833.974212694" type="line"/>
+      <point x="433.350935917" y="767.475740106" type="line"/>
+      <point x="268.587268077" y="619.30917902" type="line"/>
+      <point x="230.545007425" y="606.948499245" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

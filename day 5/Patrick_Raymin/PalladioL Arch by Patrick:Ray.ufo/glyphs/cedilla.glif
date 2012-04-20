@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="333"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="170.953172539" y="45.031430649" type="line"/>
+      <point x="203.289094093" y="55.5380084578" type="line"/>
+      <point x="159.426576551" y="-27.0588319933" type="line"/>
+      <point x="186.341170467" y="-14.1079014171" type="line"/>
+      <point x="245.549784747" y="-68.4722121477" type="line"/>
+      <point x="101.661349199" y="-203.547225753" type="line"/>
+      <point x="26.7168737399" y="-211.074766366" type="line"/>
+      <point x="49.6111917937" y="-171.040622547" type="line"/>
+      <point x="108.030678415" y="-163.625065167" type="line"/>
+      <point x="172.675461053" y="-97.4078263866" type="line"/>
+      <point x="146.684863182" y="-64.8456568066" type="line"/>
+      <point x="105.528427052" y="-85.5784291013" type="line"/>
+      <point x="100.725133405" y="-80.8303404687" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-225</integer>
+            <key>width</key>
+            <integer>36</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-107</integer>
+            <key>width</key>
+            <integer>36</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>229</integer>
+            <key>width</key>
+            <integer>75</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

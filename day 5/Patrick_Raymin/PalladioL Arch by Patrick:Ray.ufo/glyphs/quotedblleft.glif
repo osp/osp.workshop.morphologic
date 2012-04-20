@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblleft" format="1">
+  <advance width="500"/>
+  <unicode hex="201C"/>
+  <outline>
+    <contour>
+      <point x="432.129708662" y="885.894170657" type="line"/>
+      <point x="443.305386463" y="879.010746251" type="line"/>
+      <point x="300.212188446" y="598.040871813" type="line"/>
+      <point x="198.689196534" y="533.510185393" type="line"/>
+      <point x="190.342682749" y="544.467247584" type="line"/>
+      <point x="382.866814081" y="844.652592532" type="line"/>
+    </contour>
+    <contour>
+      <point x="631.851577084" y="950.787739475" type="line"/>
+      <point x="643.027254885" y="943.904315069" type="line"/>
+      <point x="499.934056868" y="662.934440632" type="line"/>
+      <point x="398.411064956" y="598.403754212" type="line"/>
+      <point x="390.064551171" y="609.360816403" type="line"/>
+      <point x="582.588682503" y="909.546161351" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>689</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

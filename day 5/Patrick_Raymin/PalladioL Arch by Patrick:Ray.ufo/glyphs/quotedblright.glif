@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblright" format="1">
+  <advance width="500"/>
+  <unicode hex="201D"/>
+  <outline>
+    <contour>
+      <point x="200.591309567" y="534.128219382" type="line"/>
+      <point x="186.325461823" y="529.492964466" type="line"/>
+      <point x="332.508829782" y="821.981518225" type="line"/>
+      <point x="434.031821694" y="886.512204645" type="line"/>
+      <point x="442.378335479" y="875.555142454" type="line"/>
+      <point x="249.854204148" y="575.369797506" type="line"/>
+    </contour>
+    <contour>
+      <point x="400.313177989" y="599.0217882" type="line"/>
+      <point x="386.047330244" y="594.386533285" type="line"/>
+      <point x="532.230698204" y="886.875087044" type="line"/>
+      <point x="633.753690116" y="951.405773464" type="line"/>
+      <point x="642.100203901" y="940.448711273" type="line"/>
+      <point x="449.57607257" y="640.263366325" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>689</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

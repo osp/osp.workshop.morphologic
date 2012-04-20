@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="1">
+  <advance width="333"/>
+  <unicode hex="007B"/>
+  <outline>
+    <contour>
+      <point x="322.305593056" y="534.771485103" type="line"/>
+      <point x="200.390534453" y="352.1600188" type="line"/>
+      <point x="235.471817637" y="211.096596161" type="line"/>
+      <point x="182.011877611" y="11.8234438934" type="line"/>
+      <point x="220.777359193" y="-112.270976758" type="line"/>
+      <point x="117.847205636" y="-117.32553093" type="line"/>
+      <point x="122.188284279" y="21.8265223991" type="line"/>
+      <point x="174.103139334" y="215.340335006" type="line"/>
+      <point x="139.52291741" y="332.38293116" type="line"/>
+      <point x="248.576234978" y="492.940506661" type="line"/>
+      <point x="306.053395933" y="707.187942047" type="line"/>
+      <point x="382.746786414" y="860.385526543" type="line"/>
+      <point x="499.201671125" y="925.562030138" type="line"/>
+      <point x="379.782754011" y="749.018920489" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>134</integer>
+            <key>width</key>
+            <integer>72</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

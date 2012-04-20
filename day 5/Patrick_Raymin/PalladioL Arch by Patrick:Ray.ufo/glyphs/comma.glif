@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="1">
+  <advance width="250"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="241.013172938" y="192.919309381" type="line"/>
+      <point x="25.4987014219" y="-134.713832176" type="line"/>
+      <point x="-19.3659386393" y="-169.269019657" type="line"/>
+      <point x="-29.2815429292" y="-160.924710324" type="line"/>
+      <point x="129.550571205" y="139.879519097" type="line"/>
+      <point x="232.024619633" y="204.719222511" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

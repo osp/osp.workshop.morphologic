@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="backslash" format="1">
+  <advance width="606"/>
+  <unicode hex="005C"/>
+  <outline>
+    <contour>
+      <point x="357.494250197" y="879.518497976" type="line"/>
+      <point x="490.031106286" y="169.735380442" type="line"/>
+      <point x="433.918771825" y="151.503377773" type="line"/>
+      <point x="301.381915736" y="861.286495308" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

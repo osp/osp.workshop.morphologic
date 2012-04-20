@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="1">
+  <advance width="606"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="351.773504339" y="421.32510965" type="line"/>
+      <point x="405.032669251" y="438.630061335" type="line"/>
+      <point x="317.889876837" y="113.80330446" type="line"/>
+      <point x="264.630711924" y="96.4983527747" type="line"/>
+    </contour>
+    <contour>
+      <point x="539.14604481" y="938.540743902" type="line"/>
+      <point x="450.458167424" y="607.954647366" type="line"/>
+      <point x="397.199002511" y="590.649695681" type="line"/>
+      <point x="485.886879897" y="921.235792217" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>275</integer>
+            <key>width</key>
+            <integer>56</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

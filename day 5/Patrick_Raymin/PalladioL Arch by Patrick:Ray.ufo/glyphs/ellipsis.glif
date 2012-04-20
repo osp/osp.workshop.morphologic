@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="1">
+  <advance width="1000"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="547.067436794" y="233.480483267" type="line"/>
+      <point x="472.081060143" y="148.131123538" type="line"/>
+      <point x="436.744880904" y="197.634511919" type="line"/>
+      <point x="508.878088007" y="282.056820665" type="line"/>
+    </contour>
+    <contour>
+      <point x="230.365616868" y="130.57782414" type="line"/>
+      <point x="155.379240217" y="45.2284644111" type="line"/>
+      <point x="120.043060977" y="94.7318527923" type="line"/>
+      <point x="192.176268081" y="179.154161538" type="line"/>
+    </contour>
+    <contour>
+      <point x="863.76925672" y="336.383142393" type="line"/>
+      <point x="788.78288007" y="251.033782665" type="line"/>
+      <point x="753.44670083" y="300.537171046" type="line"/>
+      <point x="825.579907933" y="384.959479792" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-5</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>109</integer>
+            <key>width</key>
+            <integer>116</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>442</integer>
+            <key>width</key>
+            <integer>116</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>775</integer>
+            <key>width</key>
+            <integer>116</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

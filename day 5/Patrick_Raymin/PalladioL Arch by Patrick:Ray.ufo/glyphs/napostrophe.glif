@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="napostrophe" format="1">
+  <advance width="582"/>
+  <unicode hex="0149"/>
+  <outline>
+    <contour>
+      <point x="204.464497294" y="567.982023313" type="line"/>
+      <point x="193.288819493" y="574.865447719" type="line"/>
+      <point x="336.38201751" y="855.835322157" type="line"/>
+      <point x="437.905009422" y="920.366008576" type="line"/>
+      <point x="446.251523207" y="909.408946385" type="line"/>
+      <point x="253.727391877" y="609.223601438" type="line"/>
+    </contour>
+    <contour>
+      <point x="476.7669471" y="450.371856636" type="line"/>
+      <point x="410.444832077" y="562.358197648" type="line"/>
+      <point x="260.613057036" y="414.837453737" type="line"/>
+      <point x="195.101454229" y="170.641452115" type="line"/>
+      <point x="208.041321737" y="99.1405897898" type="line"/>
+      <point x="249.911813987" y="109.59075074" type="line"/>
+      <point x="240.641304155" y="75.0347127745" type="line"/>
+      <point x="126.727517061" y="51.6908885904" type="line"/>
+      <point x="4.77928811464" y="-1.6015018303" type="line"/>
+      <point x="14.0497979459" y="32.9545361352" type="line"/>
+      <point x="57.7743921623" y="50.3159046786" type="line"/>
+      <point x="115.212706861" y="144.684024588" type="line"/>
+      <point x="184.741530594" y="403.854309328" type="line"/>
+      <point x="165.453284467" y="474.343920625" type="line"/>
+      <point x="130.264193364" y="462.910291833" type="line"/>
+      <point x="138.916669207" y="495.162593934" type="line"/>
+      <point x="299.951182518" y="590.595830276" type="line"/>
+      <point x="307.274623187" y="588.769511497" type="line"/>
+      <point x="280.390144676" y="488.557001397" type="line"/>
+      <point x="373.065561543" y="588.065576493" type="line"/>
+      <point x="455.92445119" y="641.274617354" type="line"/>
+      <point x="560.981932391" y="492.455435215" type="line"/>
+      <point x="501.341652477" y="270.144924304" type="line"/>
+      <point x="514.281519984" y="198.644061979" type="line"/>
+      <point x="552.347786168" y="207.858154951" type="line"/>
+      <point x="543.077276337" y="173.302116986" type="line"/>
+      <point x="468.156806411" y="162.627989571" type="line"/>
+      <point x="389.006120697" y="123.241363897" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-3</integer>
+            <key>width</key>
+            <integer>30</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>408</integer>
+            <key>width</key>
+            <integer>61</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>88</integer>
+            <key>width</key>
+            <integer>84</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>410</integer>
+            <key>width</key>
+            <integer>84</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

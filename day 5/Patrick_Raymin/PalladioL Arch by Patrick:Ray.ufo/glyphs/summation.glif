@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="summation" format="1">
+  <advance width="713"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="451.559367012" y="505.269150826" type="line"/>
+      <point x="151.623025217" y="37.6992228289" type="line"/>
+      <point x="463.569562562" y="139.056796984" type="line"/>
+      <point x="663.141287912" y="306.944879336" type="line"/>
+      <point x="687.868757335" y="314.97932119" type="line"/>
+      <point x="571.618136636" y="56.4001377358" type="line"/>
+      <point x="-24.6942990799" y="-137.353517737" type="line"/>
+      <point x="331.540311568" y="407.390711231" type="line"/>
+      <point x="254.255079644" y="873.312075871" type="line"/>
+      <point x="823.937932901" y="1058.4132555" type="line"/>
+      <point x="782.460693999" y="871.445216636" type="line"/>
+      <point x="757.733224573" y="863.410774782" type="line"/>
+      <point x="641.980176236" y="956.181645284" type="line"/>
+      <point x="387.097029869" y="873.365090791" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-123</integer>
+            <key>width</key>
+            <integer>112</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>711</integer>
+            <key>width</key>
+            <integer>41</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

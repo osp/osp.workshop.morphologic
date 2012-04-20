@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="florin" format="1">
+  <advance width="500"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="232.246779305" y="92.2849485707" type="line"/>
+      <point x="-80.9624525262" y="-301.789398232" type="line"/>
+      <point x="-39.1940922825" y="-194.637897352" type="line"/>
+      <point x="-26.5693516426" y="-183.175634888" type="line"/>
+      <point x="10.9989082196" y="-191.998211791" type="line"/>
+      <point x="121.834311156" y="-15.089668289" type="line"/>
+      <point x="326.469902119" y="488.808751049" type="line"/>
+      <point x="222.210713388" y="449.675575995" type="line"/>
+      <point x="248.099179252" y="513.814746344" type="line"/>
+      <point x="348.626158518" y="542.272093014" type="line"/>
+      <point x="668.015730235" y="959.383798459" type="line"/>
+      <point x="626.271375526" y="849.085710777" type="line"/>
+      <point x="614.288674407" y="836.780597376" type="line"/>
+      <point x="608.534324245" y="841.219669015" type="line"/>
+      <point x="575.103312975" y="849.283595024" type="line"/>
+      <point x="502.448094016" y="749.971203205" type="line"/>
+      <point x="430.417018919" y="568.84755453" type="line"/>
+      <point x="531.514021108" y="605.901810668" type="line"/>
+      <point x="506.267594764" y="540.919789381" type="line"/>
+      <point x="408.260762521" y="515.384212565" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>686</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

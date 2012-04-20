@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="250"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="241.631206928" y="195.223045246" type="line"/>
+      <point x="26.1167354107" y="-132.410096312" type="line"/>
+      <point x="-18.7479046504" y="-166.965283792" type="line"/>
+      <point x="-28.6635089406" y="-158.62097446" type="line"/>
+      <point x="130.168605193" y="142.183254961" type="line"/>
+      <point x="232.642653621" y="207.022958375" type="line"/>
+    </contour>
+    <contour>
+      <point x="321.450558672" y="521.8761209" type="line"/>
+      <point x="246.773199015" y="437.678629103" type="line"/>
+      <point x="211.437019777" y="487.182017485" type="line"/>
+      <point x="280.480056936" y="560.085646909" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>340</integer>
+            <key>width</key>
+            <integer>116</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>93</integer>
+            <key>width</key>
+            <integer>116</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

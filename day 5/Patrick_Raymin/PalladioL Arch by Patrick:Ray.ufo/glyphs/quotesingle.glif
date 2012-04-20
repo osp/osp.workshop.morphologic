@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesingle" format="1">
+  <advance width="208"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="234.328282893" y="569.273657664" type="line"/>
+      <point x="263.510748754" y="784.842211558" type="line"/>
+      <point x="265.055833725" y="790.601551218" type="line"/>
+      <point x="318.002926706" y="848.812131332" type="line"/>
+      <point x="347.15571112" y="818.328880667" type="line"/>
+      <point x="344.350552639" y="811.108656079" type="line"/>
+      <point x="253.349413219" y="575.453997552" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>469</integer>
+            <key>width</key>
+            <integer>240</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="1">
+  <advance width="333"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="482.403890574" y="752.92160673" type="line"/>
+      <point x="277.866942719" y="527.692727904" type="line"/>
+      <point x="181.942048024" y="645.832476101" type="line"/>
+      <point x="383.625826331" y="870.134303943" type="line"/>
+    </contour>
+    <contour>
+      <point x="245.494795884" y="688.562722339" type="line"/>
+      <point x="299.264186867" y="555.674358458" type="line"/>
+      <point x="420.396227686" y="715.950700152" type="line"/>
+      <point x="361.040525271" y="831.252028057" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>416</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>689</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>10</integer>
+            <key>width</key>
+            <integer>60</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>263</integer>
+            <key>width</key>
+            <integer>60</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

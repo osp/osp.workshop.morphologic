@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="1">
+  <advance width="606"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="558.053691305" y="543.025640998" type="line"/>
+      <point x="340.369990954" y="291.444416636" type="line"/>
+      <point x="231.817300683" y="440.17939873" type="line"/>
+      <point x="447.622893535" y="687.996002301" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

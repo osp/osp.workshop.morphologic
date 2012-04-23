@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o" format="1">
+  <advance width="500"/>
+  <unicode hex="006F"/>
+  <outline>
+    <contour>
+      <point x="355.142526804" y="487.106931652" type="curve" smooth="yes"/>
+      <point x="495.942526804" y="524.537680658"/>
+      <point x="580.59135279" y="465.941031507"/>
+      <point x="557.76815494" y="348.041031507" type="curve" smooth="yes"/>
+      <point x="533.725396898" y="223.841031507"/>
+      <point x="409.657771156" y="100.367969752"/>
+      <point x="271.057771156" y="63.5220761992" type="curve" smooth="yes"/>
+      <point x="132.457771156" y="26.6761826464"/>
+      <point x="47.7542824765" y="90.3804040717"/>
+      <point x="71.2743718647" y="211.880404072" type="curve" smooth="yes"/>
+      <point x="95.3171299059" y="336.080404072"/>
+      <point x="212.142526804" y="449.091327193"/>
+    </contour>
+    <contour>
+      <point x="335.964286042" y="458.105371206" type="curve" smooth="yes"/>
+      <point x="257.864286042" y="437.343002617"/>
+      <point x="195.362467212" y="367.798899467"/>
+      <point x="178.811293198" y="282.298899467" type="curve" smooth="yes"/>
+      <point x="166.441468409" y="218.398899467"/>
+      <point x="171.845866504" y="160.077743092"/>
+      <point x="193.586276517" y="121.465719437" type="curve" smooth="yes"/>
+      <point x="209.717361143" y="91.6067016962"/>
+      <point x="246.236011918" y="80.8265275807"/>
+      <point x="289.136011918" y="92.2312089185" type="curve" smooth="yes"/>
+      <point x="371.636011918" y="114.163288414"/>
+      <point x="432.983168055" y="188.522536112"/>
+      <point x="452.670353987" y="290.222536112" type="curve" smooth="yes"/>
+      <point x="476.538889144" y="413.522536112"/>
+      <point x="428.364286042" y="482.669300242"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-10</integer>
+            <key>width</key>
+            <integer>28</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>432</integer>
+            <key>width</key>
+            <integer>28</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>29</integer>
+            <key>width</key>
+            <integer>90</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>380</integer>
+            <key>width</key>
+            <integer>90</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

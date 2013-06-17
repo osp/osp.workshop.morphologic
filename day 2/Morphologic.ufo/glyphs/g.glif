@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="g" format="1">
-  <advance width="500"/>
-  <unicode hex="0067"/>
+  <advance width="750"/>
   <outline>
     <contour>
       <point x="225" y="0" type="line"/>
@@ -38,33 +37,4 @@
       <point x="200" y="175" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>g</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>500</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

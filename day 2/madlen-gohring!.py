@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Script to generate the exclam, by Madlen GÃ¶hring
+# Script to generate the exclam, by Madlen Goehring
 from robofab.world import RFont
 font = RFont('Morphologic.ufo')
 
